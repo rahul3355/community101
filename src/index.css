@@ -1,0 +1,23 @@
+body {
+  margin: 0;
+  font-family: -apple-system, Consolas, BlinkMacSystemFont, 'Segoe UI', 'Roboto', 'Oxygen',
+    'Ubuntu', 'Cantarell', 'Fira Sans', 'Droid Sans', 'Helvetica Neue',
+    sans-serif;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+h1, header, button, p, input{
+  font-family: Consolas, 'Courier New', Courier, monospace;
+}
+
+#p1 {
+  margin-top: 20px;
+  align-self: center;
+}
+
+code {
+  font-family: Consolas, source-code-pro, Menlo, Monaco, 'Courier New',
+    monospace;
+  
+}
